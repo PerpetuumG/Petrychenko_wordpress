@@ -2,3 +2,12 @@
 *.css.map
 *.sass.map
 *.scss.map
+
+#PhpStorm
+.idea
+
+#VsCode
+.vscode
+
+# Dependency directories
+node_modules/
